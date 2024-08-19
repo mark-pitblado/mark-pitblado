@@ -1,16 +1,22 @@
-Hi! My name is Mark and I currently work to make biodiversity data more accessible. This is my personal account, where I am primarily learning Next JS, and trying to use Neovim while doing it!
+Hi! My name is Mark and I currently work to make biodiversity data more accessible. This is my personal account.
 
-I write at: [markpitblado.me/blog](https://www.markpitblado.me/blog)
+I do most of my development on Codeberg, and am a member of the Codeberg e.V. You can find my profile there at: https://codeberg.org/mark-pitblado
 
-###
+# Personal Projects
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="40" alt="neovim logo"  />
-</div>
+- [Website](https://markpitblado.me)
+- [nevermonetize](https://nevermonetize.com)
+- [dotfiles](https://codeberg.org/mark-pitblado/dotfiles)
+
+# Languages
+
+I mostly code in python. I can also code in R and am learning go.
+
+# Stack
+
+I use neovim as my text editor, and debian as my operating system of choice.
+
+# Contact
+
+Get in touch! https://markpitblado.me/contact
 
