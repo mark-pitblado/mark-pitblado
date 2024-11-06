@@ -8,6 +8,7 @@ I do most of my development on Codeberg, and am a member of the Codeberg e.V. Yo
 - [Notes](https://notes.markpitblado.me)
 - [nevermonetize](https://nevermonetize.com)
 - [dotfiles](https://codeberg.org/mark-pitblado/dotfiles)
+- [vikunja-tui](https://github.com/mark-pitblado/vikunja-tui)
 
 I also love to learn on exercism. You can find my profile [here](https://exercism.org/profiles/mark-pitblado).
 
